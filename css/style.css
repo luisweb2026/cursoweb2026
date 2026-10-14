@@ -219,3 +219,18 @@ button:hover{
     height: 800px;
     border: 0;
 }
+.btn-descargar {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #007bff;
+    color: #ffffff;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-weight: bold;
+    border-radius: 6px;
+    transition: background-color 0.3s ease;
+}
+
+.btn-descargar:hover {
+    background-color: #0056b3;
+}
